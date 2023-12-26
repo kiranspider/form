@@ -1,0 +1,28 @@
+/* .fa-user{
+    position:absolute;
+    top:0%;
+    left:20%;
+}
+#fname-cont{
+    position: relative;
+}
+#fname{
+    height: 10px;
+    padding-left: 20px;
+} */
+body{
+    font-family: 'Merriweather', serif;
+
+}
+.fa-user{
+    position:absolute;
+    top:-20%;
+    left:10%;
+}
+#fname-cont{
+    position: relative;
+}
+#fname{
+    height: 10px;
+    padding-left: 20px;
+}
